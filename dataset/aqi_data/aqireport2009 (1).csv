@@ -1,0 +1,4 @@
+"CBSA Code","CBSA","# Days with AQI","Good","Moderate","Unhealthy for Sensitive Groups","Unhealthy","Very Unhealthy","AQI Maximum","AQI 90th Percentile","AQI Median","# Days CO","# Days NO2","# Days O3","# Days SO2","# Days PM2.5","# Days PM10"
+"11260","Anchorage, AK","363","280","81","2",".",".","105","63","29","15",".",".",".","272","76"
+"21820","Fairbanks, AK","362","225","90","28","17","2","330","113","35","8",".",".",".","354","."
+"27940","Juneau, AK","303","247","54","2",".",".","106","58","22",".",".",".",".","302","1"

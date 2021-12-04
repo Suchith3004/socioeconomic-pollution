@@ -1,0 +1,7 @@
+"CBSA Code","CBSA","# Days with AQI","Good","Moderate","Unhealthy for Sensitive Groups","Unhealthy","Very Unhealthy","AQI Maximum","AQI 90th Percentile","AQI Median","# Days CO","# Days NO2","# Days O3","# Days SO2","# Days PM2.5","# Days PM10"
+"14860","Bridgeport-Stamford-Norwalk, CT","365","240","96","25","4",".","179","93","43","1","57","164","3","140","."
+"25540","Hartford-West Hartford-East Hartford, CT","365","272","78","13","2",".","190","74","38","8","72","162",".","123","."
+"35300","New Haven-Milford, CT","364","247","99","18",".",".","140","79","42",".","43","198","3","120","."
+"35980","Norwich-New London, CT","364","285","71","8",".",".","126","66","37",".",".","148",".","216","."
+"45860","Torrington, CT","365","308","52","4","1",".","154","61","38","4","6","335",".","20","."
+"49340","Worcester, MA-CT","365","234","124","7",".",".","143","74","44",".","10","218",".","137","."

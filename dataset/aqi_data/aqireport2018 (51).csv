@@ -1,0 +1,5 @@
+"CBSA Code","CBSA","# Days with AQI","Good","Moderate","Unhealthy for Sensitive Groups","Unhealthy","Very Unhealthy","AQI Maximum","AQI 90th Percentile","AQI Median","# Days CO","# Days NO2","# Days O3","# Days SO2","# Days PM2.5","# Days PM10"
+"10260","Adjuntas, PR","27","27",".",".",".",".","32","23","14",".",".",".",".","27","."
+"25020","Guayama, PR","342","342",".",".",".",".","40","6","3",".",".",".","342",".","."
+"38660","Ponce, PR","357","179","173","5",".",".","118","71","50","8",".",".",".","304","45"
+"41980","San Juan-Carolina-Caguas, PR","364","206","144","7","7",".","169","76","48","12","1","19","1","330","1"

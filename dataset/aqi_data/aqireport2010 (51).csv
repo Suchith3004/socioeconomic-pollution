@@ -1,0 +1,5 @@
+"CBSA Code","CBSA","# Days with AQI","Good","Moderate","Unhealthy for Sensitive Groups","Unhealthy","Very Unhealthy","AQI Maximum","AQI 90th Percentile","AQI Median","# Days CO","# Days NO2","# Days O3","# Days SO2","# Days PM2.5","# Days PM10"
+"17640","Coco, PR","253","253",".",".",".",".","50","17","6",".",".",".","253",".","."
+"25020","Guayama, PR","361","347","13",".","1",".","170","25","1",".",".",".","245","8","108"
+"38660","Ponce, PR","323","308","15",".",".",".","91","38","19",".",".",".","216","29","78"
+"41980","San Juan-Carolina-Caguas, PR","365","327","36","2",".",".","107","51","29","13",".","101","23","33","195"

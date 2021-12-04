@@ -1,0 +1,7 @@
+"CBSA Code","CBSA","# Days with AQI","Good","Moderate","Unhealthy for Sensitive Groups","Unhealthy","Very Unhealthy","AQI Maximum","AQI 90th Percentile","AQI Median","# Days CO","# Days NO2","# Days O3","# Days SO2","# Days PM2.5","# Days PM10"
+"12580","Baltimore-Columbia-Towson, MD","365","124","186","40","14","1","205","115","61",".","11","128","16","210","."
+"15700","Cambridge, MD","363","259","77","26","1",".","156","93","40",".",".","363",".",".","."
+"25180","Hagerstown-Martinsburg, MD-WV","274","155","102","16","1",".","159","90","48",".",".","173",".","101","."
+"37980","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","365","76","208","62","17","2","210","126","69",".","14","93","84","173","1"
+"41540","Salisbury, MD-DE","267","140","106","19","2",".","159","93","50",".",".","197",".","70","."
+"47900","Washington-Arlington-Alexandria, DC-VA-MD-WV","365","140","169","35","18","3","221","115","57","1","40","153","18","151","2"

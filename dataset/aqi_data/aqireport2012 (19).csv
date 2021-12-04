@@ -1,0 +1,6 @@
+"CBSA Code","CBSA","# Days with AQI","Good","Moderate","Unhealthy for Sensitive Groups","Unhealthy","Very Unhealthy","AQI Maximum","AQI 90th Percentile","AQI Median","# Days CO","# Days NO2","# Days O3","# Days SO2","# Days PM2.5","# Days PM10"
+"12300","Augusta-Waterville, ME","309","298","11",".",".",".","90","44","29",".","83","196","12",".","18"
+"12620","Bangor, ME","366","337","29",".",".",".","87","48","34",".",".","242",".","121","3"
+"30340","Lewiston-Auburn, ME","363","321","42",".",".",".","97","53","33",".",".","133",".","228","2"
+"38860","Portland-South Portland, ME","366","307","54","5",".",".","140","57","37","1","30","251","1","81","2"
+"40500","Rockland, ME","177","165","12",".",".",".","97","48","34",".",".","177",".",".","."

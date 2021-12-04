@@ -1,0 +1,6 @@
+"CBSA Code","CBSA","# Days with AQI","Good","Moderate","Unhealthy for Sensitive Groups","Unhealthy","Very Unhealthy","AQI Maximum","AQI 90th Percentile","AQI Median","# Days CO","# Days NO2","# Days O3","# Days SO2","# Days PM2.5","# Days PM10"
+"24260","Grand Island, NE","111","104","7",".",".",".","68","45","23",".",".",".",".","111","."
+"30700","Lincoln, NE","365","330","35",".",".",".","78","50","31",".",".","228","77","60","."
+"36540","Omaha-Council Bluffs, NE-IA","365","229","131","5",".",".","108","68","46",".",".","133","11","208","13"
+"42420","Scottsbluff, NE","116","108","8",".",".",".","71","45","22",".",".",".",".","116","."
+"43580","Sioux City, IA-NE-SD","365","284","78","3",".",".","112","62","41",".",".","224",".","108","33"

@@ -1,0 +1,6 @@
+"CBSA Code","CBSA","# Days with AQI","Good","Moderate","Unhealthy for Sensitive Groups","Unhealthy","Very Unhealthy","AQI Maximum","AQI 90th Percentile","AQI Median","# Days CO","# Days NO2","# Days O3","# Days SO2","# Days PM2.5","# Days PM10"
+"13540","Bennington, VT","356","316","37","3",".",".","119","53","34",".",".","314",".","42","."
+"13620","Berlin, NH-VT","245","180","62","3",".",".","129","64","40",".",".","168",".","77","."
+"15540","Burlington-South Burlington, VT","365","323","40","2",".",".","122","54","36",".","26","277",".","62","."
+"17200","Claremont-Lebanon, NH-VT","362","316","44","2",".",".","122","54","34",".",".","331",".","31","."
+"40860","Rutland, VT","365","320","45",".",".",".","96","55","23","11","177",".","75","101","1"

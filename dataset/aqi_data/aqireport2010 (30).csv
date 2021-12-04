@@ -1,0 +1,7 @@
+"CBSA Code","CBSA","# Days with AQI","Good","Moderate","Unhealthy for Sensitive Groups","Unhealthy","Very Unhealthy","AQI Maximum","AQI 90th Percentile","AQI Median","# Days CO","# Days NO2","# Days O3","# Days SO2","# Days PM2.5","# Days PM10"
+"10900","Allentown-Bethlehem-Easton, PA-NJ","365","166","168","29","2",".","172","100","53",".","5","108","30","221","1"
+"12100","Atlantic City-Hammonton, NJ","365","265","91","9",".",".","150","70","41",".",".","278",".","87","."
+"35620","New York-Newark-Jersey City, NY-NJ-PA","365","115","189","49","11","1","208","115","58",".","37","144","2","180","2"
+"37980","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","365","112","205","36","12",".","190","108","59",".","10","144","6","200","5"
+"45940","Trenton, NJ","365","229","103","28","5",".","174","97","44",".","6","266",".","92","1"
+"47220","Vineland-Bridgeton, NJ","364","257","96","11",".",".","143","75","40.5",".",".","276","1","87","."

@@ -1,0 +1,4 @@
+"CBSA Code","CBSA","# Days with AQI","Good","Moderate","Unhealthy for Sensitive Groups","Unhealthy","Very Unhealthy","AQI Maximum","AQI 90th Percentile","AQI Median","# Days CO","# Days NO2","# Days O3","# Days SO2","# Days PM2.5","# Days PM10"
+"25900","Hilo, HI","365","1","20","78","244","22","532","200","200",".",".",".","357","8","."
+"27980","Kahului-Wailuku-Lahaina, HI","343","335","8",".",".",".","75","34","18",".",".",".",".","343","."
+"46520","Urban Honolulu, HI","365","297","67",".","1",".","154","54","38",".","1","81",".","274","9"

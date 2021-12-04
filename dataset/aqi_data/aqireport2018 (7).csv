@@ -1,0 +1,4 @@
+"CBSA Code","CBSA","# Days with AQI","Good","Moderate","Unhealthy for Sensitive Groups","Unhealthy","Very Unhealthy","AQI Maximum","AQI 90th Percentile","AQI Median","# Days CO","# Days NO2","# Days O3","# Days SO2","# Days PM2.5","# Days PM10"
+"20100","Dover, DE","365","310","53","2",".",".","133","55","38",".",".","274",".","91","."
+"37980","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","365","132","214","16","3",".","164","87","55",".","1","90",".","274","."
+"41540","Salisbury, MD-DE","365","295","66","4",".",".","140","58","40",".",".","292",".","73","."

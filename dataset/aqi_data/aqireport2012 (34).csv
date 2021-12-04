@@ -1,0 +1,5 @@
+"CBSA Code","CBSA","# Days with AQI","Good","Moderate","Unhealthy for Sensitive Groups","Unhealthy","Very Unhealthy","AQI Maximum","AQI 90th Percentile","AQI Median","# Days CO","# Days NO2","# Days O3","# Days SO2","# Days PM2.5","# Days PM10"
+"13900","Bismarck, ND","366","309","57",".",".",".","82","54","39.5",".","7","233","14","102","10"
+"19860","Dickinson, ND","365","347","18",".",".",".","67","47","34",".",".","341","11","13","."
+"22020","Fargo, ND-MN","366","293","73",".",".",".","91","58","39",".","4","207",".","133","22"
+"48780","Williston, ND","366","292","61","9","4",".","200","74","11",".",".",".","366",".","."
